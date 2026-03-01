@@ -1,0 +1,22 @@
+# Dossier cible
+target/
+*.jar
+*.war
+*.ear
+
+# Fichiers de build
+/target/
+
+# Fichiers IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
