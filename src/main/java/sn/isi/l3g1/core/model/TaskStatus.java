@@ -1,4 +1,4 @@
-package com.taskmanager.core.entity;
+package sn.isi.l3g1.core.model;
 
 public enum TaskStatus {
     TODO,
