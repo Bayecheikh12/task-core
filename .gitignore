@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Environment & Secrets ###
+.env
+*.log
+logs/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Docker ###
+docker-compose.override.yml
+
+### Other ###
+remote_pom.xml
